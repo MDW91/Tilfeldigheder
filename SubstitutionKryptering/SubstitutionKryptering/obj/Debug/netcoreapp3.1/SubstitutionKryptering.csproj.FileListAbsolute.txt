@@ -1,0 +1,13 @@
+C:\Users\mathi\source\repos\SubstitutionKryptering\SubstitutionKryptering\bin\Debug\netcoreapp3.1\SubstitutionKryptering.exe
+C:\Users\mathi\source\repos\SubstitutionKryptering\SubstitutionKryptering\bin\Debug\netcoreapp3.1\SubstitutionKryptering.deps.json
+C:\Users\mathi\source\repos\SubstitutionKryptering\SubstitutionKryptering\bin\Debug\netcoreapp3.1\SubstitutionKryptering.runtimeconfig.json
+C:\Users\mathi\source\repos\SubstitutionKryptering\SubstitutionKryptering\bin\Debug\netcoreapp3.1\SubstitutionKryptering.runtimeconfig.dev.json
+C:\Users\mathi\source\repos\SubstitutionKryptering\SubstitutionKryptering\bin\Debug\netcoreapp3.1\SubstitutionKryptering.dll
+C:\Users\mathi\source\repos\SubstitutionKryptering\SubstitutionKryptering\bin\Debug\netcoreapp3.1\SubstitutionKryptering.pdb
+C:\Users\mathi\source\repos\SubstitutionKryptering\SubstitutionKryptering\obj\Debug\netcoreapp3.1\SubstitutionKryptering.csprojAssemblyReference.cache
+C:\Users\mathi\source\repos\SubstitutionKryptering\SubstitutionKryptering\obj\Debug\netcoreapp3.1\SubstitutionKryptering.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\SubstitutionKryptering\SubstitutionKryptering\obj\Debug\netcoreapp3.1\SubstitutionKryptering.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\SubstitutionKryptering\SubstitutionKryptering\obj\Debug\netcoreapp3.1\SubstitutionKryptering.AssemblyInfo.cs
+C:\Users\mathi\source\repos\SubstitutionKryptering\SubstitutionKryptering\obj\Debug\netcoreapp3.1\SubstitutionKryptering.dll
+C:\Users\mathi\source\repos\SubstitutionKryptering\SubstitutionKryptering\obj\Debug\netcoreapp3.1\SubstitutionKryptering.pdb
+C:\Users\mathi\source\repos\SubstitutionKryptering\SubstitutionKryptering\obj\Debug\netcoreapp3.1\SubstitutionKryptering.genruntimeconfig.cache
